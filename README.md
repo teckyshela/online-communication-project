@@ -1,5 +1,5 @@
 <html>
-<head> <tite> online communication 2 project</title>     
+<head> <title> online communication 2 project </title>     
 </head>
 <body>
   <main>
